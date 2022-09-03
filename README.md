@@ -7,8 +7,8 @@
 <ul><h3>Tópicos</h3>
 <li>variaveis</li>
 <li>if else</li>
-<li>console.log</li>
-<li>function</li>
-<li>window.prompt.</li>
-<li>isNaN().</li>
+<li>=</li>
+<li>>=</li>
+<li><</li>
+<li><=</li>
 </ul>
